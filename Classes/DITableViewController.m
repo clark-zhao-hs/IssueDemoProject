@@ -56,7 +56,7 @@ static NSString* documents[] =
     @"Image Document Test.ig"
 };
 
-#define NUM_DOCS 4
+#define NUM_DOCS 6
 #define kRowHeight 58.0f
 
 #pragma mark -
